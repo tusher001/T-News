@@ -1,0 +1,17 @@
+.logo{
+    font-family: 'Otomanopee One', sans-serif;
+    text-decoration: none;
+    color: #0dcaf0;
+    font-size: 25px;
+    background-color: gold;
+    padding: 2px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.highlight{
+    color: #0dcaf0;
+}
+.readMore{
+    text-decoration: none;
+    color: blue;
+}
